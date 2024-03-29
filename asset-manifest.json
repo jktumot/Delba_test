@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Delba_test/static/css/main.b8605ca6.css",
-    "main.js": "/Delba_test/static/js/main.aa01b0ec.js",
-    "static/media/alexander-smagin-B_F3hj-Z_Sc-unsplash_1.png": "/Delba_test/static/media/alexander-smagin-B_F3hj-Z_Sc-unsplash_1.d44bbc453c48bbc085d2.png",
+    "main.css": "/Delba_test/static/css/main.78a88295.css",
+    "main.js": "/Delba_test/static/js/main.1ef8d4f3.js",
     "static/media/lyuboslav-vladov-bk_3.png": "/Delba_test/static/media/lyuboslav-vladov-bk_3.1ef42fd52d2a0e5b903b.png",
     "static/media/Vector_1.png": "/Delba_test/static/media/Vector_1.486bcd96d4cdbe11eb0e.png",
     "static/media/second_paz.png": "/Delba_test/static/media/second_paz.5cb79812ddce8fc1a99b.png",
@@ -40,11 +39,11 @@
     "static/media/mintrans.png": "/Delba_test/static/media/mintrans.e2e9280b26d2dac3f76f.png",
     "static/media/minstroy.png": "/Delba_test/static/media/minstroy.af99c461917a1b3c0297.png",
     "index.html": "/Delba_test/index.html",
-    "main.b8605ca6.css.map": "/Delba_test/static/css/main.b8605ca6.css.map",
-    "main.aa01b0ec.js.map": "/Delba_test/static/js/main.aa01b0ec.js.map"
+    "main.78a88295.css.map": "/Delba_test/static/css/main.78a88295.css.map",
+    "main.1ef8d4f3.js.map": "/Delba_test/static/js/main.1ef8d4f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8605ca6.css",
-    "static/js/main.aa01b0ec.js"
+    "static/css/main.78a88295.css",
+    "static/js/main.1ef8d4f3.js"
   ]
 }
